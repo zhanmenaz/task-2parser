@@ -1,0 +1,1 @@
+support design goal of Java is portability,  which means that programs written for the Java platform must run similarly on any combination of hardware and operating system with adequate runtime One.  
